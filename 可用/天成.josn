@@ -5,7 +5,7 @@
 "spider":"https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/JAR/Yoursmile2.jar",
 
 "spider":"http://home.jundie.top:81/jar/top98_1.jar",
-"spider":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+"spider":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
 "spider":"https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/jar/sdsdnruk.jar",
 "spider": "https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/%E4%B8%80%E6%9C%A8%E6%BA%90/JAR/%E7%9B%B4%E6%92%ADjar/%E7%9B%B4%E6%92%AD.jar",
 "spider": "http://smallmi.xiaohewanwan.love:63/jar/xo.jar",
@@ -16,39 +16,18 @@
 "spider":"https://github.com/c120487/CatVodSpider/raw/main/jar/custom_spider.jar",
 "spider":"https://github.com/c120487/TvJar/raw/main/jar/custom_spider.jar",
 
-"lives":[
-	{"name":"05151","type":0,"url":"https://raw.githubusercontent.com/c120487/00/main/00live05151.txt"},
-	{"name":"05152","type":0,"url":"https://raw.githubusercontent.com/c120487/00/main/00live05152.txt"},
-	{"name":"05153","type":0,"url":"https://raw.githubusercontent.com/c120487/00/main/00live05153.txt"},
-	{"name":"FongMi","type":0,"url":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt"},
-	{"name":"TVBOXZY","type":0,"url":"https://raw.githubusercontent.com/zhanghong1983/TVBOXZY/main/TV/live.txt"},
-	{"name":"Guo54","type":0,"url":"https://agit.ai/guot54/ygbh/raw/branch/master/zB/zB.txt"},
-	{"name":"YanG","type":0,"url":"https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u"},
-	{"name":"GaoTian","type":0,"url":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/listx.txt"},
-	
-	{"name":"0515","type":0,"url":"https://raw.githubusercontent.com/c120487/00/main/00live0515.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}
-],
+
 
 
 "categories":["福利","福利片","伦理片"],
 "sites":[
-{"key":"date","name":"️🚫🔞 0226 🔞🚫","type":3,"api":"csp_NiNi","searchable":0,"quickSearch":0,"filterable":0},
 
-{"key":"ffBBB","name":"🌐Bilibili (HD)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/00bili05155.json", "jar":"https://github.com/c120487/00/blob/main/Yoursmile1203.jar?raw=true"},
-
-{"key":"AList","name":"AList","type":3,"api":"csp_AList","searchable":0,"filterable":1,"ext":{"drives":[
- {"name":"9T","server":"https://drive.9t.ee"},
- {"name":"木偶","server":"https://www.kugutsu.ml"},
- {"name":"秋雨","server":"https://share.laowang.me","password":"s8;K^h[j<b"}
- ]}},
 
 {"key":"vv001","name":"️💃女優💃","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/api/00title05151.json","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"vv002","name":"️👠番號👠","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/api/00title05152.json","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"vv003","name":"️👙主題👙","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/api/00title05153.json","searchable":0,"quickSearch":0,"filterable":0},
 
-//
-//
-//
+
 {"key":"泥巴","name":"🐞泥巴","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1,"ext":"1"},
 {"key":"玩偶","name":"🐞玩偶","type":3,"api":"csp_Doll","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"18AV","name":"🐞18AV","type":3,"api":"csp_Eighteen","searchable":1,"quickSearch":1,"filterable":1},
@@ -145,7 +124,7 @@
 
 {"key":"lover","name":"️爱人影院(XYQH)","type":3,"api":"csp6_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/lover.json"},
 
-//expired
+
 {"key":"sgp","name":"水果派(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/sgp.json"},
 {"key":"大众","name":"水果派(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/xiaohewanwan/jar/raw/branch/main/shaokaochedui/%e5%a4%a7%e4%bc%97.json"},
 {"key":"zhyz","name":"ayay3(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/zhyz.json"},
