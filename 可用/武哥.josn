@@ -1,0 +1,299 @@
+{
+  "spider": "https://agit.ai/tjyu110/tvbox/src/branch/master/tjyu/jar/fm_push.jar;md5;5d1ab45ff233a49e9bc9b9a1554b38a9",
+ 
+  "sites": [
+    {
+      "key": "AList",
+      "name": "💻超清4K",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": {
+        "drives": [
+          {
+            "name": "未成年🈲",
+            "search": true,
+            "searchable": true,
+            "server": "https://lala-ofbip.run.goorm.site"
+          },
+          {
+            "name": "超清4K💻",
+            "search": true,
+            "searchable": true,
+            "server": "https://movie.wangzm.tk"
+          }
+        ]
+      }
+    },
+    {
+      "key": "msv ",
+      "name": "美少女 ",
+      "type": 0,
+      "api": "https://www.msnii.com/api/xml.php ",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "ysj ",
+      "name": "饮水机 ",
+      "type": 0,
+      "api": "https://www.xrbsp.com/api/xml.php ",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "xne ",
+      "name": "香奶儿 ",
+      "type": 0,
+      "api": "https://www.gdlsp.com/api/xml.php ",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "bp ",
+      "name": "白嫖 ",
+      "type": 0,
+      "api": "https://www.kxgav.com/api/xml.php ",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "caoliuzyw",
+      "name": "草榴",
+      "type": 1,
+      "api": "https://www.caoliuzyw.com/api.php/provide/vod/at/json/",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "ikunzyapi",
+      "name": "爱坤",
+      "type": 1,
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "hav ",
+      "name": "黄艾薇 ",
+      "type": 0,
+      "api": "https://www.pgxdy.com/api/xml.php ",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "timizy",
+      "name": "甜蜜资源",
+      "type": 1,
+      "api": "https://timizy10.cc/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "量子",
+      "name": "量子",
+      "type": 0,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "伦理片"
+      ]
+    },
+    {
+      "key": "非凡",
+      "name": "非凡",
+      "type": 0,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "伦理片"
+      ]
+    },
+    {
+      "key": "bttcj.com",
+      "name": "成人03",
+      "type": 0,
+      "api": "http://bttcj.com/inc/sapi.php",
+      "searchable": 1
+    },
+    {
+      "key": "cjmygzy.com",
+      "name": "成人04",
+      "type": 0,
+      "api": "http://cjmygzy.com/inc/sapi.php?ac=videolist",
+      "searchable": 1
+    },
+    {
+      "key": "dadiapi.com",
+      "name": "成人06",
+      "type": 0,
+      "api": "http://dadiapi.com/api.php",
+      "searchable": 1
+    },
+    {
+      "key": "fhapi9.com",
+      "name": "成人14",
+      "type": 1,
+      "api": "http://fhapi9.com/api.php/provide/vod/",
+      "searchable": 1
+    },
+    {
+      "key": "feifei67.com",
+      "name": "成人15",
+      "type": 1,
+      "api": "http://www.feifei67.com/api.php/provide/vod/",
+      "searchable": 1
+    },
+    {
+      "key": "lbapiby.com",
+      "name": "成人24",
+      "type": 0,
+      "api": "http://lbapiby.com/api.php/provide/vod/at/xml",
+      "searchable": 1
+    },
+    {
+      "key": "api.maozyapi.com",
+      "name": "成人25",
+      "type": 1,
+      "api": "https://api.maozyapi.com/inc/apijson_vod.php",
+      "searchable": 1
+    },
+    {
+      "key": "msnii.com",
+      "name": "成人29",
+      "type": 0,
+      "api": "https://www.msnii.com/api/xml.php",
+      "searchable": 1
+    },
+    {
+      "key": "kkzy.me",
+      "name": "成人30",
+      "type": 1,
+      "api": "https://kkzy.me/api.php/provide/vod/",
+      "searchable": 1
+    },
+    {
+      "key": "pgxdy.com",
+      "name": "成人33",
+      "type": 0,
+      "api": "https://www.pgxdy.com/api/xml.php",
+      "searchable": 1
+    },
+    {
+      "key": "api.sexnguon.com",
+      "name": "成人34",
+      "type": 1,
+      "api": "https://api.sexnguon.com/api.php/provide/vod/",
+      "searchable": 1
+    },
+    {
+      "key": "kxgav.com",
+      "name": "成人37",
+      "type": 0,
+      "api": "https://www.kxgav.com/api/xml.php",
+      "searchable": 1
+    },
+    {
+      "key": "xrbsp.com",
+      "name": "成人39",
+      "type": 0,
+      "api": "https://www.xrbsp.com/api/xml.php",
+      "searchable": 1
+    },
+    {
+      "key": "lbapi9.com",
+      "name": "成人41",
+      "type": 1,
+      "api": "https://lbapi9.com/api.php/provide/vod/",
+      "searchable": 1
+    },
+    {
+      "key": "apittzy.com",
+      "name": "成人46",
+      "type": 1,
+      "api": "https://apittzy.com/api.php/provide/vod/",
+      "searchable": 1
+    },
+    {
+      "key": "afasu.com",
+      "name": "成人51",
+      "type": 0,
+      "api": "https://www.afasu.com/api/xml.php",
+      "searchable": 1
+    },
+    {
+      "key": "hghhh.com",
+      "name": "成人52",
+      "type": 1,
+      "api": "https://hghhh.com/api.php/provide/vod/",
+      "searchable": 1
+    },
+    {
+      "key": "gdlsp.com",
+      "name": "成人54",
+      "type": 0,
+      "api": "https://www.gdlsp.com/api/xml.php",
+      "searchable": 1
+    },
+    {
+      "key": "push_agent",
+      "name": "推送 | lf_push",
+      "type": 3,
+      "searchable": 0,
+      "changeable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "api": "https://agit.ai/tjyu110/tvbox/raw/branch/master/tjyu/JS/crjs/lf_pushagent_min.js",
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/t"
+    }
+  ],
+  "rules": [
+    {
+      "hosts": [
+        "githubusercontent",
+        ".*.*"
+      ],
+      "name": "proxy"
+    },
+    {
+      "name": "磁力廣告",
+      "hosts": [
+        "magnet"
+      ],
+      "regex": [
+        "最 新",
+        "直 播",
+        "更 新"
+      ]
+    },
+    {
+      "name": "量子",
+      "hosts": [
+        "vip.lz",
+        "hd.lz",
+        "v.cdnlz"
+      ],
+      "regex": [
+        "18.5333"
+      ]
+    },
+    {
+      "name": "非凡",
+      "hosts": [
+        "vip.ffzy",
+        "hd.ffzy"
+      ],
+      "regex": [
+        "25.0666",
+        "25.08"
+      ]
+    }
+  ]
+}
