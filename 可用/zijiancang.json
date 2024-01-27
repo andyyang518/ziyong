@@ -51,7 +51,7 @@
 {"key":"feifei67.com","name":"CK资源2","type":1,"api":"http://www.feifei67.com/api.php/provide/vod/","quickSearch":1,"searchable":1,"filterable":1},
 {"key":"处女控","name":"CK资源3","type":1,"api":"https://ckzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
   
-{"key":"磁力熊","name":"🧲磁力熊","type":3,"api":"./api/drpy2.min.js","searchable":1,"changeable":1,"ext":"./js/磁力熊[磁].js"},
+{"key":"磁力熊","name":"磁力熊","type":3,"api":"./api/drpy2.min.js","searchable":1,"changeable":1,"ext":"./js/磁力熊[磁].js"},
   
 {"key":"*蛋蛋视频","name":"蛋蛋视频","type":1,"api":"https://156.249.29.8/inc/apijson_vod.php","searchable":1,"quickSearch":1},
 
@@ -138,10 +138,8 @@
 {"key":"美少女","name":"美少女资源5","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"msnii.com","name":"美少女资源6","type":0,"api":"https://www.msnii.com/api/xml.php","quickSearch":1,"searchable":1,"filterable":1},
 {"key":"msnii.com","name":"美少女资源7","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
-  
-{"key":"csp_jy","name":"🍑女女优选","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/172537/juyou.json?sign=nWaufA0t_rLk6tlG48Y8qzG6n1mgbE1Wg6jOBL0WLNY%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/172536/xb.jar?sign=I86uJTmVLy2JedHwUeftKu6isf0gSmpsHz1O5GsrmuA%3D%3A0"},
 
-{"key":"飘零影院","name":"飘零影院(聚)","type":1,"api":"https://p2100.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"飘零影院","name":"飘零影院","type":1,"api":"https://p2100.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
 {"key":"闪电*资源","name":"闪电资源1","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"闪电资源","name":"闪电资源2","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
