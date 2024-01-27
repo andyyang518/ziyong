@@ -23,36 +23,31 @@
 {"key":"百度资源","name":"百度资源","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
 {"key": "博天堂", "name":"博天堂1","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable": 0, "quickSearch": 1, "filterable": 0 },
-{"key":"*博天堂","name":"博天堂2","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":0,"quickSearch":0},
-{"key":"*博天堂","name":"博天堂3","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1},
-{ "key": "(18+)天堂福利", "name": "博天堂4", "type": 0, "api": "https://bttcj.com/inc/sapi.php", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-{"key":"*天堂","name":"博天堂5","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":0,"quickSearch":0},  
-{"key":"bttcj.com","name":"博天堂6","type":0,"api":"http://bttcj.com/inc/sapi.php","quickSearch":1,"searchable":1,"filterable":1},
+{"key":"*博天堂","name":"博天堂2","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1},
+{ "key": "(18+)天堂福利", "name": "博天堂3", "type": 0, "api": "https://bttcj.com/inc/sapi.php", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+{"key":"*天堂","name":"博天堂4","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":0,"quickSearch":0},  
+{"key":"bttcj.com","name":"博天堂5","type":0,"api":"http://bttcj.com/inc/sapi.php","quickSearch":1,"searchable":1,"filterable":1},
 
-{ "key": "kxgav", "name": "白嫖资源1", "type": 0, "api": "https://www.kxgav.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-{"key":"*白嫖资源","name":"白嫖资源2","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":0,"quickSearch":0},
+{"key":"kxgav","name":"白嫖资源1","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":1,"quickSearch":1},
+{"key":"*白嫖资源","name":"白嫖资源2","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":1,"quickSearch":1},
 {"key":"白嫖","name":"白嫖资源3","type": 0,"api": "https://www.kxgav.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"*白嫖资源","name":"白嫖资源4","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":1,"quickSearch":1},
-{"key":"kxgav","name":"白嫖资源5","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":1,"quickSearch":1},
-{"key":"kxgav.com","name":"白嫖资源6","type":0,"api":"https://www.kxgav.com/api/xml.php","quickSearch":1,"searchable":1,"filterable":1},
+{"key":"kxgav.com","name":"白嫖资源4","type":0,"api":"https://www.kxgav.com/api/xml.php","quickSearch":1,"searchable":1,"filterable":1},
   
-{"key":"*CK资源","name":"CK资源","type":1,"api":"http://www.feifei67.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"*CK资源","name":"CK资源1","type":1,"api":"http://www.feifei67.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"feifei67.com","name":"CK资源2","type":1,"api":"http://www.feifei67.com/api.php/provide/vod/","quickSearch":1,"searchable":1,"filterable":1},
 {"key":"处女控","name":"CK资源3","type":1,"api":"https://ckzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
   
 {"key":"*蛋蛋视频","name":"蛋蛋视频","type":1,"api":"https://156.249.29.8/inc/apijson_vod.php","searchable":1,"quickSearch":1},
 
-{"key": "*大地","name": "大地资源1","type": 0,"api": "https://dadiapi.com/api.php/"},
+{"key":"*大地","name":"大地资源1","type":0,"api":"https://dadiapi.com/api.php","searchable":1,"quickSearch":1},
 { "key": "(18+)大地资源", "name": "大地资源2", "type": 0, "api": "https://dadiapi.com/api.php/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
 {"key":"*大地资源","name":"大地资源3","type":0,"api":"https://dadiapi.com/api.php","searchable":0,"quickSearch":0},
-{"key":"*大地","name":"大地资源4","type":0,"api":"https://dadiapi.com/api.php","searchable":1,"quickSearch":1},
-{"key":"dadiapi.com","name":"大地资源5","type":0,"api":"http://dadiapi.com/api.php","quickSearch":1,"searchable":1,"filterable":1},
+{"key":"dadiapi.com","name":"大地资源4","type":0,"api":"http://dadiapi.com/api.php","quickSearch":1,"searchable":1,"filterable":1},
 
-{"key":"*番号","name":"番号资源1","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"*番号","name":"番号资源1","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 { "key": "(18+)番号资源", "name": "番号资源2", "type": 1, "api": "http://fhapi9.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
 {"key":"*番号资源","name":"番号资源3","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key": "9号资源","name": "番号资源4","type": 0,"api": "http://fhapi9.com/api.php/provide/vod/at/xml/","searchable": 1,"quickSearch": 1,"filterable": 0},
-{"key":"*番号","name":"番号资源5","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
 {"key":"光速*资源","name":"光速资源1","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"光速资源","name":"光速资源2","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -61,11 +56,10 @@
 {"key":"苹果小电影","name":"黄AV资源2","type":0,"api":"https://www.pgxdy.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"*环亚资源","name":"环亚资源1","type":0,"api":"http://wmcj8.com/inc/sapi.php","searchable":0,"quickSearch":0},
-{"key": "*环亚","name": "环亚资源2","type": 0,"api": "http://wmcj8.com/inc/sapi.php","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key":"*环亚","name":"环亚资源2","type":0,"api":"http://wmcj8.com/inc/sapi.php","searchable":1,"quickSearch":1},
 {"key": "环亚","name": "环亚资源3","type": 0,"api": "http://wmcj8.com/inc/sapi.php","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "(18+)环亚资源","name":"环亚资源4","type":0,"api":"http://wmcj8.com/inc/sapi.php?ac=videolist","searchable":1,"quickSearch":1,"filterable":0 },
-{"key":"*环亚","name":"环亚资源5","type":0,"api":"http://wmcj8.com/inc/sapi.php","searchable":1,"quickSearch":1},
-{"key":"wmcj8.com","name":"环亚资源6","type":0,"api":"http://wmcj8.com/inc/sapi.php","quickSearch":1,"searchable":1,"filterable":1},
+{"key":"wmcj8.com","name":"环亚资源5","type":0,"api":"http://wmcj8.com/inc/sapi.php","quickSearch":1,"searchable":1,"filterable":1},
   
 {"key":"*皇冠资源","name":"皇冠资源","type":1,"api":"https://hghhh.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
@@ -97,11 +91,10 @@
 {"key":"量子资源","name":"量子资源2","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
 
-{"key": "*乐播","name": "乐播资源1","type": 0,"api": "https://lbapi9.com/api.php/provide/vod/at/xml"},
+{"key":"*乐播","name":"乐播资源1","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key": "(18+)乐播","name": "乐播资源2","type": 0, "api":"https://lbapi9.com/api.php/provide/vod/at/xml", "searchable": 1, "quickSearch": 1, "filterable": 0 },
 {"key":"*乐播资源","name":"乐播资源3","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"*乐播","name":"乐播资源4","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"老鸭2","name":"乐播资源5","type": 1,"api": "https://lbapi9.com/api.php/provide/vod/","playUrl": "json:https://player.77lehuo.com/aliplayer/?url=","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key":"老鸭2","name":"乐播资源4","type": 1,"api": "https://lbapi9.com/api.php/provide/vod/","playUrl": "json:https://player.77lehuo.com/aliplayer/?url=","searchable": 1,"quickSearch": 1,"filterable": 0},
 
 {"key":"*老鸭资源","name":"老鸭资源1","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key": "老鸭1","name": "老鸭资源2","type": 1,"api": "https://api.apilyzy.com/api.php/provide/vod/?ac=list","playUrl": "json:https://player.77lehuo.com/aliplayer/?url=","searchable": 1,"quickSearch": 1,"filterable": 0},
