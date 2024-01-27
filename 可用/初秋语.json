@@ -47,6 +47,13 @@
       "searchable": 1
     },
     {
+      "key": "MissAV",
+      "name": "MissAV",
+      "type": 3,
+      "api": "csp_Miss",
+      "searchable": 1
+    },
+    {
       "key": "Hanime",
       "name": "Hanime",
       "type": 3,
