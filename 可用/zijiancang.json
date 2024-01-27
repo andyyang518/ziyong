@@ -21,10 +21,10 @@
 {"key":"9u电影","name":"9u影视","type":3,"api":"./api/drpy2.min.js","searchable":1,"changeable":1,"ext":"./js/9U电影.js"},
   
 {"key":"91md","name":"(墙)91麻豆1","type":1,"api":"https://91md.me/api.php/provide/vod/from/mdm3u8/","tag":"qb,tj,rm"},
-{"key":"❤91麻豆","name":"91麻豆2","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"91麻豆","name":"91麻豆3","type":1,"api":"http://bt4.cc/api.php/provide/vod/","searchable":1,"quickSearch":0},
-{"key":"91md.me","name":"91麻豆4","type":1,"api":"http://91md.me/api.php/provide/vod/","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
-{"key":"madouse.la","name":"91麻豆5","type":1,"api":"http://madouse.la/api.php/provide/vod/","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+{"key":"❤91麻豆","name":"(墙)91麻豆2","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"91麻豆","name":"(墙)91麻豆3","type":1,"api":"http://bt4.cc/api.php/provide/vod/","searchable":1,"quickSearch":0},
+{"key":"91md.me","name":"(墙)91麻豆4","type":1,"api":"http://91md.me/api.php/provide/vod/","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+{"key":"madouse.la","name":"(墙)91麻豆5","type":1,"api":"http://madouse.la/api.php/provide/vod/","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
   
 
 {"key":"艾旦影视","name":"艾旦影视(聚)","type":1,"api":"https://lovedan.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
