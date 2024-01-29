@@ -115,21 +115,8 @@
 {"key":"*鲨鱼资源","name":"*鲨鱼资源","type":1,"api":"https://shayuapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*速度资源","name":"*速度资源","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","searchable":0,"quickSearch":0},
 {"key":"*KK写真资源","name":"*KK写真资源","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"*61783","name":"*61783","type":1,"api":"https://61783.xyz/api.php/provide/art/","searchable":0,"quickSearch":0}
-  ],
-  "lives": [
-    {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "redirect",
-          "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vZ29kYW4vanNvbi9yYXcvYnJhbmNoL21hc3Rlci9saXZlcy8xOCsudHh0"
-          ]
-        }
-      ]
-    }
-  ],
+{"key":"*61783","name":"*61783","type":1,"api":"https://61783.xyz/api.php/provide/art/","searchable":0,"quickSearch":0}],
+ 
   "parses": [
     {
       "name": "解析聚合",
