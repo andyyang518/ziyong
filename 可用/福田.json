@@ -1,8 +1,8 @@
 {
-"spider":"https://github.com/c120487/00/blob/main/jar/xc0126.jar?raw=true",
+"spider":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/jar/xc0126.jar?raw=true",
 
 "sites":[
-{"key":"live","name":"💻电视直播","type":3,"api":"https://github.com/c120487/00/raw/main/api/直播转点播.js","ext":"Peter1$https://raw.githubusercontent.com/c120487/00/main/00live05151.txt#Peter2$https://raw.githubusercontent.com/c120487/00/main/00live05152.txt#Peter3$https://raw.githubusercontent.com/c120487/00/main/00live05153.txt#Gaotian$https://raw.githubusercontent.com/gaotianliuyun/gao/master/listx.txt"},
+{"key":"live","name":"💻电视直播","type":3,"api":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/api/直播转点播.js","ext":"Peter1$https://raw.githubusercontent.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/TV/00live05151.txt#Peter2$https://raw.githubusercontent.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/TV/00live05152.txt#Peter3$https://raw.githubusercontent.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/TV/00live05153.txt#Gaotian$https://raw.githubusercontent.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/TV/listx.txt"},
 
 {"key":"vv001","name":"️💃女優💃","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/api/00title05151.json","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"vv002","name":"️👠番號👠","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/api/00title05152.json","searchable":0,"quickSearch":0,"filterable":0},
