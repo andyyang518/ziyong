@@ -2,11 +2,24 @@
 "spider":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/jar/xc0126.jar?raw=true",
 
 "sites":[
-{"key":"live","name":"💻电视直播","type":3,"api":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/api/直播转点播.js","ext":"Peter1$https://raw.githubusercontent.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/TV/00live05151.txt#Peter2$https://raw.githubusercontent.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/TV/00live05152.txt#Peter3$https://raw.githubusercontent.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/TV/00live05153.txt#Gaotian$https://raw.githubusercontent.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/TV/listx.txt"},
 
-{"key":"vv001","name":"️💃女優💃","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/api/00title05151.json","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"vv002","name":"️👠番號👠","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/api/00title05152.json","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"vv003","name":"️👙主題👙","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/api/00title05153.json","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"csp_XYQHiker_300分类","name":"300分类","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/2hacc/TVBox/main/h/XYQHiker/300分类.json"},
+{"key":"csp_XYQHiker_300分类1","name":"300分类1","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/ext/300分类1.json"},
+{"key":"csp_XYQHiker_300分类2","name":"300分类2","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/ext/300分类2.json"},
+{"key":"csp_XYQHiker_300分类3","name":"300分类3","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/ext/300分类3.json"},
+{"key":"csp_XYQHiker_300分类4","name":"300分类4","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/ext/300分类4.json"},
+{"key":"csp_XYQHiker_300分类5","name":"300分类5","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/ext/300分类5.json"},
+{"key":"csp_XYQHiker_300分类6","name":"300分类6","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/xt/300分类6.json"},
+
+
+
+
+
+{"key":"live","name":"💻电视直播","type":3,"api":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/api/直播转点播.js","ext":"Peter1$https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/TV/00live05151.txt#Peter2$https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/TV/00live05152.txt#Peter3$https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/TV/00live05153.txt#Gaotian$https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/TV/listx.txt"},
+
+{"key":"vv001","name":"️💃女優💃","type":4,"api":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/api/00title05151.json","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"vv002","name":"️👠番號👠","type":4,"api":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/api/00title05152.json","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"vv003","name":"️👙主題👙","type":4,"api":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/api/00title05153.json","searchable":0,"quickSearch":0,"filterable":0},
 
 {"key":"18AV","name":"🐞18AV","type":3,"api":"csp_Eighteen","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Jable","name":"🐞Jable","type":3,"api":"csp_Jable","searchable":1,"quickSearch":1,"filterable":1},
