@@ -184,11 +184,11 @@
   
 {"key":"无尽","name":"无尽资源","type":1,"api":"https://api.wujinapi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
   
-{"key":"csp_xBPQ_新香蕉超清资源","name":"新香蕉超清资源","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://bbs.txwldh.com/tvbox/新香蕉超清资源.json","jar":"http://bbs.txwldh.com/tvbox/Yoursmile2.jar"},
+{"key":"csp_xBPQ_新香蕉超清资源","name":"新香蕉超清资源","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://bbs.txwldh.com/tvbox/新香蕉超清资源.json","jar":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/jar/Yoursmile.jar"},
   
-{"key":"csp_xBPQ_新香蕉废柴网","name":"新香蕉废柴网","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://bbs.txwldh.com/tvbox/新香蕉废柴网.json","jar":"http://bbs.txwldh.com/tvbox/Yoursmile.jar"},
+{"key":"csp_xBPQ_新香蕉废柴网","name":"新香蕉废柴网","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://bbs.txwldh.com/tvbox/新香蕉废柴网.json","jar":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/jar/Yoursmile.jar"},
   
-{"key":"csp_xBPQ_新香蕉国产传媒","name":"新香蕉国产传媒","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://bbs.txwldh.com/tvbox/新香蕉国产传媒.json","jar":"http://bbs.txwldh.com/tvbox/Yoursmile2.jar"},
+{"key":"csp_xBPQ_新香蕉国产传媒","name":"新香蕉国产传媒","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://bbs.txwldh.com/tvbox/新香蕉国产传媒.json","jar":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/jar/Yoursmile.jar"},
   
 {"key":"*小湿妹资源","name":"小湿妹1","type":0,"api":"https://www.afasu.com/api/xml.php","searchable":1,"quickSearch":1},
 {"key":"afasu.com","name":"小湿妹2","type":0,"api":"https://www.afasu.com/api/xml.php","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
