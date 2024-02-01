@@ -1,8 +1,8 @@
 {
-"spider":"./jar/fan.txt",
+"spider":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/jar/fan.txt",
 "wallpaper":"http://maoyingshi.cc/api.php",
 "sites":[
-{"key":"直播1","name":"直播1","type":3,"playerType":1,"api":"./js/直播转点播.js","ext":"水果$https://v.muzi.gq/sg.txt#水果备用$./TV/sg.txt#黄仓库1$./TV/hsckj.txt#黄仓库2$./TV/hckj.txt#黄仓库3$./TV/hsck.txt#丝袜$./TV/sg.txt#奶香$./TV/t.txt#森林$./TV/yunv1.txt#其它$./TV/yunv2.txt#玉女$./TV/yunvj1.txt&&&https://api.caonm.net/api/bhs/h.php"},
+{"key":"直播1","name":"直播1","type":3,"playerType":1,"api":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/js/直播转点播1.js","ext":"水果$https://v.muzi.gq/sg.txt#水果备用$https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/TV/sg.txt#黄仓库1$"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/TV/hsckj.txt#黄仓库2$"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/TV/hckj.txt#黄仓库3$"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/TV/hsck.txt#丝袜$"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/TV/sg.txt#奶香$"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/TV/t.txt#森林$"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/TV/yunv1.txt#其它$"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/TV/yunv2.txt#玉女$"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/TV/yunvj1.txt&&&https://api.caonm.net/api/bhs/h.php"},
 {"key":"db01","name":"女優","type":4,"api":"./json/star.json","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"db03","name":"主题","type":4,"api":"./json/zhuti.json","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"T1","name":"T1","type":1,"api":"https://v.muzi.gq/api.php","searchable":1,"quickSearch":1},
@@ -19,8 +19,7 @@
 {"key":"乐播资源","name":"乐播资源","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"博天堂","name":"博天堂","type":0,"api":"http://bttcj.com/inc/sapi.php?ac=videolist","searchable":1,"quickSearch":1},
 {"key":"番号资源","name":"番号资源","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"色猫资源","name":"色猫资源","type":0,"api":"https://api.maozyapi.com/inc/api.php","searchable":1,"quickSearch":1},
-{"key":"push_agent","name":"🍭推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/裤衩都嫖没了.txt"}
+{"key":"色猫资源","name":"色猫资源","type":0,"api":"https://api.maozyapi.com/inc/api.php","searchable":1,"quickSearch":1}
 ],
 
 "rules": [
