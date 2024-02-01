@@ -1,5 +1,7 @@
 {
     "sites": [
+         "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+    "spider": "https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/jar/custom_spider.jar;md5;eea22614c071a32c3624ca99691f491a"
         {
             "key": "本地",
             "name": "❤本地",
@@ -6269,6 +6271,5 @@
         "cdnjs.hnfenxun.com",
         "cms.qdwght.com"
     ],
-    "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-    "spider": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;eea22614c071a32c3624ca99691f491a"
+   
 }
