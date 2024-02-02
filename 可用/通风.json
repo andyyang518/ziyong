@@ -1,5 +1,5 @@
 {
-    "spider": "https://agit.ai/fenwe/TVBox/raw/branch/master/jar/pg.jar",
+    "spider": "https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/jar/pg1.jar",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -9,16 +9,16 @@
       "api": "csp_AList",
       "searchable": 1,
       "changeable": 0,
-      "ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/alist.json"},
-      {"key":"PikPakSharea","name":"PikPaka分享","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1, "changeable":0, "filterable":0, "ext":"https://agit.ai/fenwe/TVBox/raw/branch/master/lib/tokenm.json$$$https://agit.ai/fenwe/TVBox/raw/branch/master/lib/pikpakclass.a.json$$$https://agit.ai/fenwe/TVBox/raw/branch/master/lib/pikpakclass.a.json.txt.gz"},
-    {"key": "dr_ss直播","name": "ss直播(drpy)","type": 3,"api": "https://www.fenwe.tk:521/libs/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/js/ss%e7%9b%b4%e6%92%ad.js"},
+      "ext": "https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/json/alist1.json"},
+      {"key":"PikPakSharea","name":"PikPaka分享","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1, "changeable":0, "filterable":0, "ext":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/lib/tokenm.json$$$https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/lib/pikpakclass.a.json$$$https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/lib/pikpakclass.a.json.txt.gz"},
+    {"key": "dr_ss直播","name": "ss直播(drpy)","type": 3,"api": "https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/lib/drpy3.min.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/js/ss%e7%9b%b4%e6%92%ad.js"},
     {"key":"csp_xBPQ_新香蕉中文字幕",
     "name":"新香蕉中文字幕",
     "type":3,
     "api":"csp_xBPQ",
     "searchable":1,
     "quickSearch":1,
-    "filterable":1,"jar":"https://agit.ai/weigs/w/raw/branch/master/JAR/Yoursmile2.jar","ext":"https://agit.ai/weigs/w/raw/branch/master/666/新香蕉中文字幕.json"},
+    "filterable":1,"jar":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/jar/Yoursmile3.jar","ext":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/xBPQ/新香蕉中文字幕.json"},
     {"key":"tianmi","name":"甜蜜资源","type":1,"style":{"type":"rect","ratio":1.485},"api":"https://timizy10.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
     {
       "key": "cjmygzy.com",
@@ -131,7 +131,7 @@
             "quickSearch": 1
         },
 
-    {"key": "dr_艾旦影视","name": "艾旦影视(drpy)","type": 3,"api": "https://www.fenwe.tk:521/libs/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://www.fenwe.tk:521/js/艾旦影视.js"},
+    {"key": "dr_艾旦影视","name": "艾旦影视(drpy)","type": 3,"api": "https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/lib/drpy3.min.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/js/艾旦影视.js"},
 {
     "key":"ms4nii",
     "name":"美少女",
@@ -454,18 +454,7 @@
       "name": "成人62",
       "type": 1,"style":{ "type":"rect", "ratio":1.485 },
       "api": "https://api.apilyzy.com/api.php/provide/vod/",
-      "searchable": 1
-    },
-    {
-      "key": "push_agent",
-      "name": "推送",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
-    }
+      "searchable": 1}
   ],
   "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
   
