@@ -1,5 +1,7 @@
 {
   "sites": [
+  "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
+  "spider":"https://qu.ax/rvNn.jpg;md5;e18bc0418a1fe5f288275132c9d719b3"
   {
       "key": "本地",
       "name": "❤本地",
@@ -8,7 +10,7 @@
       "searchable": 0,
       "changeable": 0,
       "viewType": 1,
-      "jar": "https://qu.ax/tkXa.js;md5;945ad30d5255359385ba59b8fb061bb7"
+      "jar": "https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/js/tkXa.js;md5;945ad30d5255359385ba59b8fb061bb7"
     },
   {
       "key": "探探",
@@ -20,7 +22,7 @@
       "viewType": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar":"https://pan.shangui.cc/f/b4KYH1/fan727.jar;md5;91b04592e14b3cc30f34c1324a59e8ad"
+      "jar":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/jar/fan727.jar;md5;91b04592e14b3cc30f34c1324a59e8ad"
     },
           {  "key": "腐宅",
             "name": "腐宅",
@@ -50,7 +52,7 @@
       "type": 3,"viewType": 1,
       "api": "csp_Doll",
       "searchable": 1,
-      "jar":"https://qu.ax/bmJu.js;md5;6976f6560b0b5ff9182651d9e4c43dac"
+      "jar":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/js/bmJu.js;md5;6976f6560b0b5ff9182651d9e4c43dac"
     },
     {
       "key": "18AV",
@@ -58,7 +60,7 @@
       "type": 3,"viewType": 1,
       "api": "csp_Eighteen",
       "searchable": 1,
-      "jar":"https://qu.ax/bmJu.js;md5;6976f6560b0b5ff9182651d9e4c43dac"
+      "jar":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/js/bmJu.js;md5;6976f6560b0b5ff9182651d9e4c43dac"
     },
     {
       "key": "Jable",
@@ -66,7 +68,7 @@
       "type": 3,"viewType": 1,
       "api": "csp_Jable",
       "searchable": 1,
-      "jar":"https://qu.ax/bmJu.js;md5;6976f6560b0b5ff9182651d9e4c43dac"
+      "jar":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/js/bmJu.js;md5;6976f6560b0b5ff9182651d9e4c43dac"
     },
     {
       "key": "Hanime",
@@ -74,7 +76,7 @@
       "type": 3,"viewType": 1,
       "api": "csp_Hanime",
       "searchable": 1,
-      "jar":"https://qu.ax/bmJu.js;md5;6976f6560b0b5ff9182651d9e4c43dac"
+      "jar":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/js/bmJu.js;md5;6976f6560b0b5ff9182651d9e4c43dac"
     },
     {
       "key": "bttcj.com",
@@ -399,7 +401,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 0,
-"ext": "{\"分类url\":\"https://avhh.vip/cq/{cateId}-{catePg}.html\", \"分类\":\"请勿外传$2k-yazhou#按主页切换源$2k-zipaitoupai#无分类切换VPN$2k-chaoqingchuanmei#或者其他网络$2k-3Ddongman#资源网络共享$2k-oumei#有倒卖贩卖纯属欺诈$2k-luanlunrenqi#请勿相信！$2k-siwazhifu#绝对禁止未成年人观看$2k-zhibolubo#SM另类$2k-SMlinglei#超清三级$2k-chaoqingsanji\",\"副标题\":\"duration\\\">&&</div\",\"链接\": \"href=\\\"/cq/Kplay&&.html\\\"\", \"链接前缀\": \"https://avhh.vip/cq/Kplay\", \"链接后缀\": \".html\", \"直接播放\": \"1\" }","jar":"https://qu.ax/jKoN.js"
+"ext": "{\"分类url\":\"https://avhh.vip/cq/{cateId}-{catePg}.html\", \"分类\":\"请勿外传$2k-yazhou#按主页切换源$2k-zipaitoupai#无分类切换VPN$2k-chaoqingchuanmei#或者其他网络$2k-3Ddongman#资源网络共享$2k-oumei#有倒卖贩卖纯属欺诈$2k-luanlunrenqi#请勿相信！$2k-siwazhifu#绝对禁止未成年人观看$2k-zhibolubo#SM另类$2k-SMlinglei#超清三级$2k-chaoqingsanji\",\"副标题\":\"duration\\\">&&</div\",\"链接\": \"href=\\\"/cq/Kplay&&.html\\\"\", \"链接前缀\": \"https://avhh.vip/cq/Kplay\", \"链接后缀\": \".html\", \"直接播放\": \"1\" }","jar":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/js/jKoN.js"
 },
     {"key": "玉兔专场","name": "❤玉兔采集","type": 1,"viewType": 1,"api": "https://apiyutu.com/api.php/provide/vod/","playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": [    
 "精品推荐","国产精品","主播秀色","日本有码","日本无码","中文字幕","童颜巨乳","性感人妻","强奸乱伦","欧美情色","童真萝莉","三级伦理","卡通动漫","丝袜OL","口爆颜射","自拍偷拍","日本片商","Cosplay","素人自拍","台湾色情","韩国自拍","性感港姐","东南亚情色","凌辱束缚","剧情介绍","多P 3P","91系列","网红系列","野外系列","女仆系列","学生中出","性感旗袍","兽耳作品","瑜伽裤","骚货护士","及膝袜","网曝系列","麻豆传媒","女同人妖","恋腿癖"]},
@@ -735,6 +737,4 @@
 
 "ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"
   ],
-  "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
-  "spider":"https://qu.ax/rvNn.jpg;md5;e18bc0418a1fe5f288275132c9d719b3"
 }
