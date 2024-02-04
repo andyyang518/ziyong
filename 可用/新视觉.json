@@ -1,6 +1,6 @@
 {
-"spider":"./新视觉.jar",
-"spider": "https://fm.t4tv.hz.cz/jar/custom_spider.jar;md5;9060b67dfec8782aca6e79ba17c0979b",
+"spider":"https://raw.kkgithub.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/jar/新视觉.jar",
+"spider": "https://raw.kkgithub.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/jar/custom_spider4.jar;md5;9060b67dfec8782aca6e79ba17c0979b",
 
 "sites":[
 {"key":"18AV","name":"18AV2 無碼","type":3,"api":"csp_Eighteen","searchable":1,"filterable":1},
