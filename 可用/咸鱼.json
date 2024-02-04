@@ -1,5 +1,5 @@
 {
-"spider":"./jar/pg.jar;md5;58fc87042d81c94a11056d7b481d4c74",
+"spider":"https://raw.kkgithub.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/jar/pg.jar;md5;58fc87042d81c94a11056d7b481d4c74",
 "wallpaper":"https://liu.chuqiuyu.workers.dev",
 "sites":[
 {"key":"lf_js_search","name":"搜索","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"https://raw.githubusercontents.com/gaotianliuyun/gao/master/lib/lf_search3_min.js","ext":"18+"},
