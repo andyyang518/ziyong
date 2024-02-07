@@ -59,7 +59,7 @@
 {"key":"*523资源","name":"523资源","type":1,"api":"https://caiji.523zyw.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
 {"key":"*52AVAV","name":"52AV","type":0,"api":"https://52zyapi.com/home/cjapi/asda/mc10/vod/xml","searchable":0,"quickSearch":0},
 
-{"key":"*61783","name":"61783","type":1,"api":"https://61783.xyz/api.php/provide/art/","searchable":0,"quickSearch":0}],
+{"key":"*61783","name":"61783","type":1,"api":"https://61783.xyz/api.php/provide/art/","searchable":0,"quickSearch":0},
   
 {"key":"9u电影","name":"9u影视","type":3,"api":"./api/drpy2.min.js","searchable":1,"changeable":1,"ext":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/js/9U电影.js"},
   
@@ -659,7 +659,7 @@
 {"name":"parwix稳定","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},	
 
 {"name":"QQ","url":"https://jx.bozrc.com:4433/player/?url=","showType":1},
-{"name":"群鑫影视","type":1,"url":"http://cl.yjhan.com:8090/home/api?type=ys&uid=651075&key=aehuDFGIJSVWX24589&url=","ext":{"flag":["youku","优酷","qiyi","爱奇艺","奇艺","qq","腾讯"]}}
+{"name":"群鑫影视","type":1,"url":"http://cl.yjhan.com:8090/home/api?type=ys&uid=651075&key=aehuDFGIJSVWX24589&url=","ext":{"flag":["youku","优酷","qiyi","爱奇艺","奇艺","qq","腾讯"]}},
   
 {"name":"人人迷","type":1,"url":"https://svip.renrenmi.cc:2222/api/?key=ogGC18CjsACNo60r3E&url="},
 {"name":"rongxing","type":1,"url":"https://svip.rongxingvr.top/api/?key=bpWXKrAJUKm3puOCH4&url="},
