@@ -43,7 +43,7 @@
   
 {"key":"本地","name":"本地","type":3,"style":{"type":"rect","ratio":1.485},"api":"csp_Local","searchable":0,"changeable":0},
 
-{"key":"AList","name":"❤罗汉果专用","type":3,"style":{"type":"rect","ratio":1.485},"api":"csp_AList","searchable":1,"changeable":1,"ext":{"vodPic":"https://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20180504/82b2eff6f5bf489e9b4a90fbe9fc7e84.jpeg","drives":[{"name":"ECVE","server":"https://pan.ecve.cn"},{"name":"觸光","server":"https://pan.ichuguang.com"},{"name":"星梦","server":"https://pan.bashroot.top"},{"name":"罗汉果AV","server":"https://lala-ofbip.run.goorm.site"}]}},
+{"key":"AList","name":"罗汉果专用","type":3,"style":{"type":"rect","ratio":1.485},"api":"csp_AList","searchable":1,"changeable":1,"ext":{"vodPic":"https://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20180504/82b2eff6f5bf489e9b4a90fbe9fc7e84.jpeg","drives":[{"name":"ECVE","server":"https://pan.ecve.cn"},{"name":"觸光","server":"https://pan.ichuguang.com"},{"name":"星梦","server":"https://pan.bashroot.top"},{"name":"罗汉果AV","server":"https://lala-ofbip.run.goorm.site"}]}},
   
 {"key":"vv001","name":"️女優1","type":4,"api":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/api/00title05151.json","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"db01","name":"女優2","type":4,"api":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/json/star.json","searchable":0,"quickSearch":0,"filterable":0},
