@@ -3,6 +3,9 @@
   "drives": [
     {"name": "fw","server": "http://69.161.221.160:5244/"},
     {"name": "alist.eduedu.eu.org","server": "https://alist.eduedu.eu.org"},
+    {"name": "9T","server": "https://drive.9t.ee","params": [
+              {"path": "/OneDrive","pass": "dooglu"},
+              {"path": "/115Cloud","pass": "dooglu"}]},
     {"name": "LG五星棒","server": "https://lala-ofbip.run.goorm.site/"},
     {"name": "ECVE","server": "https://pan.ecve.cn"},
     {"name": "觸光","server": "https://pan.ichuguang.com"},
