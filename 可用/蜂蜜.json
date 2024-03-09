@@ -1,6 +1,6 @@
 {
   "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
-  "spider":"https://qu.ax/rvNn.jpg;md5;e18bc0418a1fe5f288275132c9d719b3",
+  "spider":"https://qu.ax/rvNn.jpg",
   "sites": [
   {
       "key": "本地",
@@ -10,7 +10,7 @@
       "searchable": 0,
       "changeable": 0,
       "viewType": 1,
-      "jar": "https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/js/tkXa.js;md5;945ad30d5255359385ba59b8fb061bb7"
+      "jar": "https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/js/tkXa.js"
     },
   {
       "key": "探探",
@@ -22,7 +22,7 @@
       "viewType": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/jar/fan727.jar;md5;91b04592e14b3cc30f34c1324a59e8ad"
+      "jar":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/jar/fan727.jar"
     },
           {  "key": "腐宅",
             "name": "腐宅",
@@ -52,7 +52,7 @@
       "type": 3,"viewType": 1,
       "api": "csp_Doll",
       "searchable": 1,
-      "jar":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/js/bmJu.js;md5;6976f6560b0b5ff9182651d9e4c43dac"
+      "jar":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/js/bmJu.js"
     },
     {
       "key": "18AV",
@@ -60,7 +60,7 @@
       "type": 3,"viewType": 1,
       "api": "csp_Eighteen",
       "searchable": 1,
-      "jar":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/js/bmJu.js;md5;6976f6560b0b5ff9182651d9e4c43dac"
+      "jar":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/js/bmJu.js"
     },
     {
       "key": "Jable",
@@ -68,7 +68,7 @@
       "type": 3,"viewType": 1,
       "api": "csp_Jable",
       "searchable": 1,
-      "jar":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/js/bmJu.js;md5;6976f6560b0b5ff9182651d9e4c43dac"
+      "jar":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/js/bmJu.js"
     },
     {
       "key": "Hanime",
@@ -76,7 +76,7 @@
       "type": 3,"viewType": 1,
       "api": "csp_Hanime",
       "searchable": 1,
-      "jar":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/js/bmJu.js;md5;6976f6560b0b5ff9182651d9e4c43dac"
+      "jar":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/js/bmJu.js"
     },
     {
       "key": "bttcj.com",
