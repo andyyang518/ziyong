@@ -45,12 +45,10 @@
  {"name": "蜂蜜备用","url": "https://fm.t4tv.hz.cz/json/config.json"},		
  {"name": "一木","url": "https://raw.githubusercontents.com/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E8%87%AA%E7%94%A8.json"},
  {"name": "弹幕","url": "https://gitee.com/ajin0913/xiaobai/raw/master/DM.json"},
-
  {"name": "zzz1","url": "https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json"},
  {"name": "喵影视","url": "http://meowtv.cn/tv"},
  {"name": "饭太硬","url":"http://饭太硬.top/tv"},
- {"name": "饭太硬备用","url": "http://fan.xxooo.cf/tv"},
- {"name": "菜妮丝","url": "https://tvbox.cainisi.cf"},
+ {"name": "奇乐","url": "https://gitee.com/zhaodehe/qlkj/raw/master/ys.json"},
  {"name": "潘多拉","url": "https://agit.ai/kvymin/TVBox/raw/branch/master/Pandora.json"},
  {"name": "环宇轩","url":"http://www.891218.xyz/free/jk/hyxuan2.json"},
  {"name": "尤东风","url":"https://agit.ai/1452635819/h/raw/branch/master/%e5%b0%a4%e4%b8%9c%e9%a3%8e.json"},
@@ -71,7 +69,6 @@
  {"name": "锦哥哥","url":"http://jin.锦哥哥.love"},
  {"name": "动漫城","url":"https://www.yingm.cc/dm/dm.json"},
  {"name": "圆周率","url":"https://jihulab.com/zhulr7765/tvbox/-/raw/main/tv.txt"},
-
  {"name": "摸鱼4K","url":"https://codeberg.org/looktv/4kmy/raw/branch/main/moyu.json"},
  {"name": "摸鱼备份","url":"https://codeberg.org/looktv/my/raw/branch/main/my35.json"},
  {"name": "多多家庭","url": "http://tvkj.top/DC/dd/tvkj/svip.json"},
