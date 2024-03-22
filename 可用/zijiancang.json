@@ -221,6 +221,8 @@
 {"key":"*草榴视频","name":"草榴视频1","type":0,"api":"https://www.caiji02.com/home/cjapi/cfas/mc10/vod/xml","searchable":0,"quickSearch":0},
 {"key":"caoliuzyw","name":"草榴视频2","type":1,"api":"https://www.caoliuzyw.com/api.php/provide/vod/at/json/","searchable":1,"changeable":1},
 
+{"key":"火狐","name":"茶杯狐","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":0,"filterable":1,"categories":["内地剧","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","犯罪片","剧情片","冒险片","记录片","韩剧","香港剧","台湾剧","欧美剧","日剧","马泰剧","体育赛事","综艺","动画片","中国动漫","日本动漫","欧美动漫","伦理片"]},
+  
 {"key":"csp_xBPQ_插插","name":"插插","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/xBPQ/插插.json"},
 
 {"key":"磁力熊","name":"磁力熊","type":3,"api":"./api/drpy2.min.js","searchable":1,"changeable":1,"ext":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/js/磁力熊[磁].js"},
@@ -297,6 +299,8 @@
 {"key":"fhapi9.com","name":"番号资源27","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":0},
 
 {"key":"非凡","name":"非凡资源1","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["伦理片"]},
+{"key":"非凡资源","name":"非凡资源2","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"playurl":"https://ffzyplayer.com/?url=","categories":["伦理片"]},
+
 
 {"key":"腐宅","name":"腐宅","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"viewType":1,"changeable":0,"ext":"http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"},
 
@@ -355,6 +359,10 @@
 {"key":"环亚资源B","name":"环亚资源15","type":0,"api":"http://wmcj8.com/inc/sapi.php","playUrl":"","categories":[]},
 {"key":"环","name":"环亚资源16","type":0,"api":"http://wmcj8.com/inc/sapi.php?ac=videolist"},
 {"key":"❤环亚资源","name":"环亚资源17","type":0,"viewType":1,"api":"http://wmcj8.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"❤环亚资源","name":"环亚资源18","type":0,"api":"http://wmcj8.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"♥️环亚资源2","name":"环亚资源19","type":0,"api":"http://wmcj8.com/inc/sapi.php?ac=list","searchable":1,"quickSearch":1,"filterable":1},
+
+
 
 {"key":"*皇冠资源","name":"皇冠资源1","type":1,"api":"https://hghhh.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"*皇冠资源","name":"皇冠资源2","type":1,"api":"https://hghhh.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
@@ -377,6 +385,8 @@
 {"key":"红袖","name":"红袖添香","type":1,"style":{"type":"rect","ratio":1.485},"api":"https://hongxiuzy.com/api.php/provide/vod/from/hxm3u8/","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"categories":["一区","二区","三区","四区","国产裸聊","抖音视频","网红头条","网曝黑料","欧美无码","女优明星","SM调教","无码专区","麻豆传媒","制服诱惑","AI换脸","中文字幕","卡通动漫","极品探花","美女主播","自拍偷拍","熟女人妻","萝莉少女","蜜桃传媒","3P群交","果冻传媒","精东影业","内地传媒","国产精品","日韩有码"]},
 
 {"key":"*黄瓜TV资源","name":"黄瓜资源","type":0,"api":"https://www.caiji10.com/home/cjapi/cfs6/mc10/vod/xml","searchable":0,"quickSearch":0},
+
+{"key":"虎牙","name":"虎牙采集","type":1,"api":"https://www.huyaapi.com/api.php/provide/vod/from/hym3u8","searchable":1,"quickSearch":1,"categories":["伦理片"]},
 
 {"key":"chengren","name":"伙伴天空","type":1,"api":"https://www.partnersky-horoskop.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
@@ -438,6 +448,8 @@
 {"key":"*酷豆2","name":"酷豆资源2","type":1,"api":"https://api.kdapi.info/api.php/provide/vod/","searchable":0,"quickSearch":0},
 
 {"key":"*酷伦理","name":"酷伦理","type":1,"api":"https://api.kudian70.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+
+{"key":"快云资源","name":"快云资源","type":1,"api":"https://kuaiyun-api.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"style":{"type":"rect","ratio":1.33},"categories":["伦理片"]},
 
 {"key":"快车*资源","name":"快车资源1","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"快车资源","name":"快车资源2","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -516,6 +528,9 @@
 {"key":"❤AIvin","name":"乐播资源36","type":0,"viewType":1,"api":"http://lbapiby.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"老鸭2","name":"乐播资源37","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","playUrl":"json:https://player.77lehuo.com/aliplayer/?url=","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"lbapi9.com","name":"乐播资源38","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":0},
+{"key":"❤乐播资源","name":"乐播资源39","type":0,"api":"https://lbapi9.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"❤乐播资源","name":"乐播资源40","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+
 
 {"key":"*老鸭资源","name":"老鸭资源1","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"老鸭1","name":"老鸭资源2","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/?ac=list","playUrl":"json:https://player.77lehuo.com/aliplayer/?url=","searchable":1,"quickSearch":1,"filterable":0},
@@ -548,6 +563,7 @@
 {"key":"老鸭","name":"老鸭资源29","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","playUrl":"","searchable":0,"quickSearch":0,"filterable":1,"categories":["日本有码","日本无码","中文字幕","变态另类","巨乳美乳","动漫精品","熟女人妻","自拍偷拍","海外明星","国产传媒"]},
 {"key":"lbapiby.com","name":"老鸭资源30","type":0,"api":"http://lbapiby.com/api.php/provide/vod/at/xml","searchable":0},
 {"key":"api.apilyzy.com","name":"老鸭资源31","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":0},
+{"key":"❤老鸭资源","name":"老鸭资源32","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","style":{"type":"oval","ratio":0.75},"searchable":1,"changeable":1,"quickSearch":1,"filterable":1},
 
 {"key":"*狼友资源","name":"狼友资源","type":1,"api":"https://www.langyouzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 
