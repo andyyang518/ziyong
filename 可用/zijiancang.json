@@ -53,15 +53,18 @@
 {"key":"dr_ss直播","name":"直播2","type":3,"api":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/lib/drpy3.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/js/ss%e7%9b%b4%e6%92%ad.js"},
 
 
-
-{"key":"本地","name":"本地1","type":3,"style":{"type":"rect","ratio":1.485},"api":"csp_Local","searchable":0,"changeable":0},
-{"key":"本地","name":"本地2","type":3,"api":"csp_Local","searchable":0,"changeable":0,"viewType":1,"jar":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/js/tkXa.js"},
+{"key":"本地","name":"本地","type":3,"api":"csp_Local","searchable":0,"changeable":0,"viewType":1,"jar":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/js/tkXa.js"},
 
 {"key":"AList","name":"Alist1","type":3,"style":{"type":"rect","ratio":1.485},"api":"csp_AList","searchable":1,"changeable":1,"ext":{"vodPic":"https://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20180504/82b2eff6f5bf489e9b4a90fbe9fc7e84.jpeg","drives":[{"name":"ECVE","server":"https://pan.ecve.cn"},{"name":"觸光","server":"https://pan.ichuguang.com"},{"name":"星梦","server":"https://pan.bashroot.top"},{"name":"罗汉果AV","server":"https://lala-ofbip.run.goorm.site"}]}},
+  
 {"key":"AList","name":"Alist2","type":3,"api":"csp_AList","searchable":1,"filterable":1,"changeable":1,"timeout":60,"ext":{"drives":[{"name":"未成年🈲","search":true,"searchable":true,"server":"https://lala-ofbip.run.goorm.site"},{"name":"超清4K💻","search":true,"searchable":true,"server":"https://movie.wangzm.tk"}]}},
+  
 {"key":"csp_Alist1","name":"Alist3","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":0,"changeable":0,"ext":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/json/alist.json","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/jar/spider.jar"},
+  
 {"key":"AList","name":"AList4","type":3,"api":"csp_AList","searchable":1,"changeable":0,"ext":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/json/alist1.json"},
+  
 {"key":"AList","name":"AList5","type":3,"api":"csp_AList","searchable":1,"changeable":0,"ext":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/json/alist.json"},
+  
 {"key":"vv001","name":"️女優1","type":4,"api":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/api/00title05151.json","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"db01","name":"女優2","type":4,"api":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/json/star.json","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"csp_xBPQ_女优","name":"女优3","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/sub/%E5%A5%B3%E4%BC%98.json","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/jar/Yoursmile5.jar"},
