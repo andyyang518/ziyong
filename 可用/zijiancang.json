@@ -278,7 +278,7 @@
 {"key":"*大地资源","name":"大地资源15","type":0,"style":{"type":"rect","ratio":1.485},"api":"https://dadiapi.com/api.php","searchable":0,"quickSearch":0},
 {"key":"大地","name":"大地资源16","type":0,"api":"https://dadiapi.com/api.php/provide/vod/at/xml","quickSearch":1,"searchable":1,"filterable":1},
 {"key":"大地资源","name":"大地资源17","type":0,"api":"https://dadiapi.com/api.php","playUrl":"","categories":[]},
-{"key":"大","name":"大地资源18","type":0,"api":"https://dadiapi.com/api.php/"},
+{"key":"大地","name":"大地资源18","type":0,"api":"https://dadiapi.com/api.php/"},
 {"key":"dadiapi.com","name":"大地资源19","type":0,"viewType":1,"api":"http://dadiapi.com/api.php","searchable":1},
 {"key":"❤大地资源","name":"大地资源20","type":0,"viewType":1,"api":"https://dadiapi.com/api.php","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"大地专场","name":"大地资源21","type":0,"viewType":1,"api":"https://dadiapi.com/api.php","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"categories":[
