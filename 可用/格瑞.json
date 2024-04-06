@@ -1,5 +1,5 @@
 {
-    "spider": "https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/jar/Yoursmile2.jar",
+    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/jar/Yoursmile2.jar",
     "wallpaper": "https://tuapi.eees.cc/api.php?category=meinv&type=302",
     "rules": [
         {"host": "*","rule": ["douyinvod.com","/video/tos/cn/"]},
@@ -35,17 +35,17 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/xBPQ/新香蕉AV解说.json"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/xBPQ/新香蕉AV解说.json"
         },
         {
             "key": "dr_玩偶姐姐",
             "name": "玩偶姐姐(道长)",
             "type": 3,
-            "api": "https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/lib/drpy.min1.js",
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/lib/drpy.min1.js",
             "searchable": 2,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/js/玩偶姐姐.js"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/js/玩偶姐姐.js"
         },
         {
             "key": "csp_xBPQ_香蕉资源",
@@ -55,7 +55,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/xBPQ/香蕉资源.json"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/xBPQ/香蕉资源.json"
         },
         {
             "key": "csp_xBPQ_香蕉超清",
@@ -65,7 +65,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/xBPQ/新香蕉超清资源.json"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/xBPQ/新香蕉超清资源.json"
         },
         {
             "key": "csp_xBPQ_香蕉国产",
@@ -75,7 +75,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/xBPQ/新香蕉国产传媒.json"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/xBPQ/新香蕉国产传媒.json"
         },
         {
             "key": "csp_xBPQ_香蕉久久热",
@@ -85,7 +85,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/xBPQ/新香蕉久久热.json"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/xBPQ/新香蕉久久热.json"
         },
         {
             "key": "csp_xBPQ_香蕉废柴",
@@ -95,7 +95,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/xBPQ/新香蕉废柴网.json"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/xBPQ/新香蕉废柴网.json"
         },
         {
             "key": "csp_xBPQ_香蕉直播",
@@ -105,7 +105,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/xBPQ/新香蕉实时直播.json"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/xBPQ/新香蕉实时直播.json"
         },
         {
             "key": "csp_xBPQ_香蕉搜索",
@@ -115,7 +115,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/xBPQ/香蕉搜索.json"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/xBPQ/香蕉搜索.json"
         },
         {
             "key": "csp_xBPQ_麻豆映画",
@@ -125,7 +125,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/xBPQ/麻豆映画.json"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/xBPQ/麻豆映画.json"
         },
         {
             "key": "玩偶",
@@ -134,7 +134,7 @@
             "api": "csp_Doll",
             "searchable": 1,
             "filterable": 1,
-            "jar": "https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/jar/MF.jar"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/jar/MF.jar"
         },
         {
             "key": "18AV",
@@ -143,7 +143,7 @@
             "api": "csp_Eighteen",
             "searchable": 1,
             "filterable": 1,
-            "jar": "https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/jar/MF.jar"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/jar/MF.jar"
         },
         {
             "key": "Jable",
@@ -152,7 +152,7 @@
             "api": "csp_Jable",
             "searchable": 1,
             "filterable": 1,
-            "jar": "https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/jar/MF.jar"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/jar/MF.jar"
         },
         
         {
@@ -164,7 +164,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "changeable": 0,
-            "ext": "https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/json/alist.json","jar":"https://raw.githubusercontents.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/jar/spider.jar"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/json/alist.json","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/andyyang518/ziyong/main/%E5%8F%AF%E7%94%A8/jar/spider.jar"
         },
 
         {
