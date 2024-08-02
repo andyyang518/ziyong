@@ -148,7 +148,7 @@
 
 {"key":"*鲍鱼AV","name":"鲍鱼AV","type":0,"api":"http://caiji26.com/home/cjapi/p0g8/mc10/vod/xml","searchable":0,"quickSearch":0},
 
-{"key":"🔞宝盒专享","name":"🔞宝盒专享","type":3,"api":"https://fastly.jsdelivr.net/gh/andyyang518/ziyong@main/%E5%8F%AF%E7%94%A8/js/zC.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://fastly.jsdelivr.net/gh/andyyang518/ziyong@main/%E5%8F%AF%E7%94%A8/json/18cr.json"},
+{"key":"🔞宝盒专享","name":"宝盒专享","type":3,"api":"https://fastly.jsdelivr.net/gh/andyyang518/ziyong@main/%E5%8F%AF%E7%94%A8/js/zC.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://fastly.jsdelivr.net/gh/andyyang518/ziyong@main/%E5%8F%AF%E7%94%A8/json/18cr.json"},
 
 {"key":"百度资源","name":"百度资源1","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"百度资源","name":"百度资源2","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","searchable":1,"quickSearch":0},
