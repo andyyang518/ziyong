@@ -103,7 +103,7 @@
 {"key":"1080*资源","name":"1080资源1","type":1,"api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":0,"quickSearch":0},
 {"key":"1080资源库","name":"1080资源2","type":1,"api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":0,"quickSearch":0},
 
-{"key":"*3366资源","name":"*3366资源","type":1,"api":"http://www.3366zy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"*3366资源","name":"3366资源","type":1,"api":"http://www.3366zy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 
 {"key":"4K电影网","name":"4K影视","type":3,"api":"./api/drpy2.min.js","searchable":1,"changeable":1,"ext":"https://fastly.jsdelivr.net/gh/andyyang518/ziyong@main/%E5%8F%AF%E7%94%A8/js/4K电影网.js"},
 {"key":"csp_biubiu_4K狗午夜版","name":"4K狗午夜版","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://fastly.jsdelivr.net/gh/andyyang518/ziyong@main/%E5%8F%AF%E7%94%A8/sub/4K狗午夜版.json"},
