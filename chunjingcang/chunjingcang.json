@@ -1,5 +1,4 @@
 ﻿{"urls":[
-{"name":"TVBOX","url":"http://稳定接口.tvbox.中国"},
 {"name":"圥忈1.1","url":"https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-Rv.json"},
 {"name":"圥忈1","url":"https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-Pb.json"},
 {"name":"圥忈2","url":"https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-Am.json"},
@@ -20,7 +19,7 @@
 {"name":"若干","url":"https://fastly.jsdelivr.net/gh/bizhangjie/CatVodSpider@main/json/index.json"},
 {"name":"青木","url":"http://530.my3v.work/tvbox/微风主线/微风主线.json"},
 {"name":"拽姐","url":"https://gitee.com/langli-little-white-dragon-1/little-white-dragon/raw/master/zj.txt"},
-{"name":"源云","url":"https://fastraw.ixnic.net/PizazzGY/TVBox/main/api.json"},
+{"name":"源云","url":"https://fastly.jsdelivr.net/gh/PizazzGY/TVBox@main/api.json"},
 {"name":"苹果","url":"https://fastly.jsdelivr.net/gh/xiaogangzong/box-pg@main/jsm.json"},
 {"name":"宅男","url":"https://fastly.jsdelivr.net/gh/shichuanenhui/TvBox@main/fty.json"},
 {"name":"香佬","url":"https://fastly.jsdelivr.net/gh/xyq254245/xyqonlinerule@main/XYQTVBox.json"},
