@@ -1,4 +1,4 @@
-🦸┃tangTV「直播」,https://gh-proxy.org/https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.m3u
+🦸┃tangTV「直播」,#genre#,https://gh-proxy.org/https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.m3u
 🐍┃易发港🇭🇰澳「直播」,https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt
 📱┃飞扬咪咕「直播」,https://l.gmbbk.com/upload/39183918.txt
 🛳️️┃裤佬「仅移动网」,https://codeberg.org/Jsnzkpg/Jsnzkpg/raw/Jsnzkpg/Jsnzkpg1.m3u
