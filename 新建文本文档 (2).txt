@@ -1,3 +1,4 @@
+lives,#genre#
 🦸┃tangTV「直播」, https://gh-proxy.org/https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.m3u
 🐍┃易发港🇭🇰澳「直播」,https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt
 📱┃飞扬咪咕「直播」, https://l.gmbbk.com/upload/39183918.txt
@@ -14,7 +15,7 @@
 🥷┃zhbo「NAS」,http://192.168.110.108:5020/zubo.txt
 🥷┃iptv「NAS」,http://192.168.110.108:1905
 🥷┃smart「NAS」,http://192.168.110.108:5050/smart.m3u?token=Alan20060209
-#github仓库直播区
+github仓库直播区,#genre#
 🐬┃各大源合集「直播」,https://gh-proxy.org/https://raw.githubusercontent.com/807080747/zv/refs/heads/main/sese.txt 
 🐬┃锋哥xTV「直播」, https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/xxx视频资源
 🐬┃综合「直播」,https://ghfast.top/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/电视家.m3u
@@ -27,7 +28,7 @@
 🐬┃live「wujiangliu直播」,https://gh-proxy.org/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/wangzizb.txt 
 
 
-##来源TG收集
+##来源TG收集,#genre#
 🪼┃老汤TV「直播」,https://gh-proxy.org/https://raw.githubusercontent.com/alantang1977/alan/main/proxy/mg.m3u
 📚┃alantangTV「直播」,https://gh-proxy.org/https://raw.githubusercontent.com/alantang1977/iptv8/refs/heads/main/bbxx_lite.m3u
 🌺┃jn950TV「直播」,https://gh-proxy.org/https://raw.githubusercontent.com/jn950/live/main/tv/pllive.txt
@@ -43,7 +44,6 @@
 🐍┃OscarWilde「直播」,https://gitee.com/OscarWilde/itv/raw/master/tv.txt
 🐍┃海豚二「直播」,https://ge.html-5.me//ii/海豚二🐬长久不改定数.txt
 🪓┃jtv收集「网络直播」, https://gh-proxy.org/https://raw.githubusercontent.com/alantang1977/jtv/refs/heads/main/网络收集.txt
-
 🛡️┃宝盒,http://ygbh.cc.cd/bhzb.php,ua:okhttp/5.3.2
 👖┃宫殿「直播」,https://gongdian.top/tv/iptv
 👖┃ITV「直播」,type: 1,https://itv.tv1288.xyz
@@ -60,7 +60,7 @@
 🦄┃中港台直播源,https://t.freetv.fun/m3u/playlist.txt
 🦄┃台湾欢乐看源,http://ezc.xtvantsc.xyz/欢乐看.txt
 
-##酷九live直播
+##酷九live直播,#genre#
 🔫️┃松鼠「直播」,http://www.52top.com.cn:678/downloads/migu.txt
 🔫️┃壹米「直播」, https://gitee.com/yimi321/tv/raw/master/tv.png
 🔫️┃酷九「直播」, https://gongdian.top/tv/ku9/webview.txt#JS=https://gongdian.top/tv/ku9/js/webview.js
@@ -82,7 +82,7 @@
 🐰┃kakaxi「直播ipv6」,https://kakaxi.indevs.in/ipv6.m3u
 
 	
-##长青云盘直播
+##长青云盘直播,#genre#
 🛺┃大广东「长青」,https://cloud.7so.top/f/9QXOc2/jjtv.txt
 🏍️️️┃china全国「长青」,https://cloud.7so.top/f/yrlQHL/chinaTV.m3u
 🚐┃HKTV「长青」, https://cloud.7so.top/f/yr7BHL/HKTV.txt
@@ -100,7 +100,7 @@
 ☎️️┃tmxk「smart直播」, https://tmxk.pp.ua/smart-cn.m3u
 🎣┃tmxk「4gtv直播」, https://tmxk.pp.ua/litv.php?token=tmxk	
 
-##github仓库直播区	
+##github仓库直播区,#genre#	
 🏒┃judy直播,https://smart.pendy.dpdns.org/m3u/merged_judy.m3u
 🚔️️┃judy-smart「直播」,https://gh-proxy.org/https://raw.githubusercontent.com/judy-gotv/iptv/main/logo-smart.m3u
 🎅┃judy-4gtv「梯直播」,https://gh-proxy.org/https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/4gtv.m3u
@@ -125,7 +125,7 @@
 ⛏️️┃电视家「直播」,https://down.nigx.cn/dsj.zzong6599.workers.dev
 🍏️┃范明明「直播V6」,https://nos.netease.com/ysf/3d75a78a0fc7ede372c03598d6d10367.m3u
 	
-##自家系列直播
+##自家系列直播,#genre#
 🍬┃jtv采集「自家」, https://gh-proxy.org/https://raw.githubusercontent.com/alantang1977/jtv/refs/heads/main/综合源.txt
 🥚┃tang收集「自家」, https://gh-proxy.org/https://raw.githubusercontent.com/1626907/miguevent/refs/heads/main/migu.php	
 🦀️┃TVsmile「自家」,https://gh-proxy.org/https://raw.githubusercontent.com/alantang1977/TVsmile/refs/heads/main/组播优选.txt
@@ -161,7 +161,7 @@
 🐸┃catvod「咪咕直播」, https://iptv.catvod.com/tv.m3u
 🚨️️┃tvzb直播,https://php.946985.xyz/fengyunTV.txt
 
-##serv00服务器系列
+##serv00服务器系列,#genre#
 🎎┃smartLive「php直播」, http://alantang.serv00.net/smt.php
 🗡️️️┃serv00「php直播」,http://alantang.serv00.net/smt-2.php
 🚢️️┃zgstLive「php直播」, http://alantang.serv00.net/smt-1.php
